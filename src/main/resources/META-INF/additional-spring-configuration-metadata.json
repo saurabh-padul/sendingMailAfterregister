@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "com.mail.subject",
+    "type": "java.lang.String",
+    "description": "A description for 'com.mail.subject'"
+  },
+  {
+    "name": "com.mail.message",
+    "type": "java.lang.String",
+    "description": "A description for 'com.mail.message'"
+  }
+]}
